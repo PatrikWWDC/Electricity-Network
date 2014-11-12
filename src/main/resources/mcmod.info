@@ -1,8 +1,8 @@
 [
 {
-  "modid": "NanoTech",
-  "name": "NanoTech",
-  "description": "Nano Technology",
+  "modid": "electricitynetwork",
+  "name": "Electricity Network",
+  "description": "Electricity Network",
   "version": "1.0",
   "mcversion": "1.7.10",
   "url": "",
