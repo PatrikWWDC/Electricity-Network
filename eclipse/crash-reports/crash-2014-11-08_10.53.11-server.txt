@@ -4,8 +4,8 @@
 Time: 11/8/14 10:53 AM
 Description: Exception while updating neighbours
 
-java.lang.ClassCastException: com.PatrikWWDC.nanotech.tile_entity.TileEntityLEDLamp cannot be cast to com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI
-	at com.PatrikWWDC.nanotech.block.BlockLEDLamp.onNeighborBlockChange(BlockLEDLamp.java:34)
+java.lang.ClassCastException: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntityLEDLamp cannot be cast to com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI
+	at com.PatrikWWDC.electricitynetwork.block.BlockLEDLamp.onNeighborBlockChange(BlockLEDLamp.java:34)
 	at net.minecraft.world.World.notifyBlockOfNeighborChange(World.java:787)
 	at net.minecraft.world.World.notifyBlocksOfNeighborChange(World.java:737)
 	at net.minecraft.world.World.notifyBlockChange(World.java:697)
@@ -35,12 +35,12 @@ A detailed walkthrough of the error, its code path and all known details is as f
 
 -- Head --
 Stacktrace:
-	at com.PatrikWWDC.nanotech.block.BlockLEDLamp.onNeighborBlockChange(BlockLEDLamp.java:34)
+	at com.PatrikWWDC.electricitynetwork.block.BlockLEDLamp.onNeighborBlockChange(BlockLEDLamp.java:34)
 
 -- Block being updated --
 Details:
-	Source block type: ID #169 (tile.nanotech:Solar Panel Tier I // com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI)
-	Block type: ID #176 (tile.Led Lamp // com.PatrikWWDC.nanotech.block.BlockLEDLamp)
+	Source block type: ID #169 (tile.nanotech:Solar Panel Tier I // com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI)
+	Block type: ID #176 (tile.Led Lamp // com.PatrikWWDC.electricitynetwork.block.BlockLEDLamp)
 	Block data value: 0 / 0x0 / 0b0000
 	Block location: World: (1,4,0), Chunk: (at 1,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
 Stacktrace:

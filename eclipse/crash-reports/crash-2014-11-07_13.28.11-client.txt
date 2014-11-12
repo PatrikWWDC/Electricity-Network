@@ -2041,7 +2041,7 @@ Stacktrace:
 
 -- Affected screen --
 Details:
-	Screen name: com.PatrikWWDC.nanotech.gui.GUIGenerator
+	Screen name: com.PatrikWWDC.electricitynetwork.gui.GUIGenerator
 Stacktrace:
 	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1726)
 	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1029)

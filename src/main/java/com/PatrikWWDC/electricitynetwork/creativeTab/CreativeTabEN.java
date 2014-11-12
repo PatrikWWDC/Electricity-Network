@@ -1,7 +1,7 @@
-package com.PatrikWWDC.nanotech.creativeTab;
+package com.PatrikWWDC.electricitynetwork.creativeTab;
 
-import com.PatrikWWDC.nanotech.init.ModItems;
-import com.PatrikWWDC.nanotech.reference.Reference;
+import com.PatrikWWDC.electricitynetwork.init.ModItems;
+import com.PatrikWWDC.electricitynetwork.reference.Reference;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 

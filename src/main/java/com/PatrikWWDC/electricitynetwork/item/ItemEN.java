@@ -1,7 +1,7 @@
-package com.PatrikWWDC.nanotech.item;
+package com.PatrikWWDC.electricitynetwork.item;
 
-import com.PatrikWWDC.nanotech.creativeTab.CreativeTabEN;
-import com.PatrikWWDC.nanotech.reference.Reference;
+import com.PatrikWWDC.electricitynetwork.creativeTab.CreativeTabEN;
+import com.PatrikWWDC.electricitynetwork.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;

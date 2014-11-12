@@ -1,7 +1,4 @@
-package com.PatrikWWDC.nanotech.init;
-
-import com.PatrikWWDC.nanotech.NanoTech;
-import cpw.mods.fml.common.network.NetworkRegistry;
+package com.PatrikWWDC.electricitynetwork.init;
 
 public class ModGUI {
 

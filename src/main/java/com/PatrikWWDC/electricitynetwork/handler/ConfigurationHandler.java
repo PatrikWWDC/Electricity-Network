@@ -1,6 +1,6 @@
-package com.PatrikWWDC.nanotech.handler;
+package com.PatrikWWDC.electricitynetwork.handler;
 
-import com.PatrikWWDC.nanotech.reference.Reference;
+import com.PatrikWWDC.electricitynetwork.reference.Reference;
 import cpw.mods.fml.client.event.ConfigChangedEvent;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.common.config.Configuration;

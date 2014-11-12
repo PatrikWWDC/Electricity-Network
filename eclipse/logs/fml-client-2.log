@@ -817,31 +817,31 @@
 [10:58:54] [Client thread/DEBUG] [FML/]: Examining directory main for potential mods
 [10:58:54] [Client thread/DEBUG] [FML/]: Found an mcmod.info file in directory main
 [10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.lang
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.models
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.blocks
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.entity
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.gui
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.items
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.lang
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.models
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.blocks
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.entity
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.gui
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.items
 [10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com
 [10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech
-[10:58:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.PatrikWWDC.nanotech.NanoTech) - loading
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork
+[10:58:54] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.PatrikWWDC.electricitynetwork.NanoTech) - loading
 [10:58:54] [Client thread/TRACE] [nanotech/]: Parsed dependency info : [] [] []
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.block
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.creativeTab
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.entity
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.gui
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.handler
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.init
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.item
-[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.proxy
-[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.reference
-[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.tile_entity
-[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.utility
-[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.world
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.block
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.creativeTab
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.entity
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.gui
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.handler
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.init
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.item
+[10:58:54] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.proxy
+[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.reference
+[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.tile_entity
+[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.utility
+[10:58:55] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.world
 [10:58:55] [Client thread/DEBUG] [FML/]: Examining directory start for potential mods
 [10:58:55] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory start
 [10:58:55] [Client thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.10-10.13.2.1232.jar for potential mods
@@ -1078,39 +1078,39 @@
 [10:58:59] [Client thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
 [10:58:59] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
 [10:58:59] [Client thread/TRACE] [nanotech/nanotech]: Sending event FMLPreInitializationEvent to mod nanotech
-[10:58:59] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Nano Core 4096 com.PatrikWWDC.nanotech.item.ItemNanoPlate@7439522 (req. id -1)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.nanotech.item.ItemNanoGrenade@65f3eee7 (req. id -1)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ingot 4098 com.PatrikWWDC.nanotech.item.ItemCopperIngot@71c9b3fb (req. id -1)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby 4099 com.PatrikWWDC.nanotech.item.ItemRuby@71475e19 (req. id -1)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Silicon Ore 165 com.PatrikWWDC.nanotech.block.BlockSiliconOre@472f569 (req. id -1)
-[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockSiliconOre@472f569 for ItemBlock net.minecraft.item.ItemBlock@174dc2c7 at id 165, original id requested: -1
+[10:58:59] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Nano Core 4096 com.PatrikWWDC.electricitynetwork.item.ItemNanoPlate@7439522 (req. id -1)
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.electricitynetwork.item.ItemNanoGrenade@65f3eee7 (req. id -1)
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ingot 4098 com.PatrikWWDC.electricitynetwork.item.ItemCopperIngot@71c9b3fb (req. id -1)
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby 4099 com.PatrikWWDC.electricitynetwork.item.ItemRuby@71475e19 (req. id -1)
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Silicon Ore 165 com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@472f569 (req. id -1)
+[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@472f569 for ItemBlock net.minecraft.item.ItemBlock@174dc2c7 at id 165, original id requested: -1
 [10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Silicon Ore 165 net.minecraft.item.ItemBlock@174dc2c7 (req. id 165)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby Ore 166 com.PatrikWWDC.nanotech.block.BlockRubyOre@722ea2c4 (req. id -1)
-[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockRubyOre@722ea2c4 for ItemBlock net.minecraft.item.ItemBlock@53c02c6c at id 166, original id requested: -1
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby Ore 166 com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@722ea2c4 (req. id -1)
+[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@722ea2c4 for ItemBlock net.minecraft.item.ItemBlock@53c02c6c at id 166, original id requested: -1
 [10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby Ore 166 net.minecraft.item.ItemBlock@53c02c6c (req. id 166)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Amethyst Ore 167 com.PatrikWWDC.nanotech.block.BlockAmethystOre@6da49168 (req. id -1)
-[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockAmethystOre@6da49168 for ItemBlock net.minecraft.item.ItemBlock@4f467b14 at id 167, original id requested: -1
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Amethyst Ore 167 com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@6da49168 (req. id -1)
+[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@6da49168 for ItemBlock net.minecraft.item.ItemBlock@4f467b14 at id 167, original id requested: -1
 [10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Amethyst Ore 167 net.minecraft.item.ItemBlock@4f467b14 (req. id 167)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ore 168 com.PatrikWWDC.nanotech.block.BlockCopperOre@1c3a86b5 (req. id -1)
-[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockCopperOre@1c3a86b5 for ItemBlock net.minecraft.item.ItemBlock@4661e38d at id 168, original id requested: -1
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ore 168 com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@1c3a86b5 (req. id -1)
+[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@1c3a86b5 for ItemBlock net.minecraft.item.ItemBlock@4661e38d at id 168, original id requested: -1
 [10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ore 168 net.minecraft.item.ItemBlock@4661e38d (req. id 168)
-[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@44a26214 (req. id -1)
-[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@44a26214 for ItemBlock net.minecraft.item.ItemBlock@d53240 at id 169, original id requested: -1
+[10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@44a26214 (req. id -1)
+[10:58:59] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@44a26214 for ItemBlock net.minecraft.item.ItemBlock@d53240 at id 169, original id requested: -1
 [10:58:59] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Solar Panel Tier I 169 net.minecraft.item.ItemBlock@d53240 (req. id 169)
-[10:58:59] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.nanotech.init.ModGUI:init:13]: Registering GUI Handlers!
-[10:58:59] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.nanotech.init.ModGUI:init:15]: GUI Handlers Registered!
+[10:58:59] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.electricitynetwork.init.ModGUI:init:13]: Registering GUI Handlers!
+[10:58:59] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.electricitynetwork.init.ModGUI:init:15]: GUI Handlers Registered!
 [10:58:59] [Client thread/TRACE] [nanotech/nanotech]: Sent event FMLPreInitializationEvent to mod nanotech
 [10:58:59] [Client thread/INFO] [FML/]: Applying holder lookups
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoPlate. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoGrenade. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.copperIngot. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.ruby. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.siliconOre. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.rubyOre. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.amethystOre. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.copperOre. Is there something wrong with the registry?
-[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.nanotech.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoPlate. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoGrenade. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.copperIngot. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.ruby. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.siliconOre. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.rubyOre. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.amethystOre. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.copperOre. Is there something wrong with the registry?
+[10:58:59] [Client thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.electricitynetwork.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
 [10:58:59] [Client thread/INFO] [FML/]: Holder lookups applied
 [10:58:59] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
 [10:58:59] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...

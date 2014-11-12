@@ -1,6 +1,6 @@
-package com.PatrikWWDC.nanotech.world;
+package com.PatrikWWDC.electricitynetwork.world;
 
-import com.PatrikWWDC.nanotech.init.ModBlocks;
+import com.PatrikWWDC.electricitynetwork.init.ModBlocks;
 import cpw.mods.fml.common.IWorldGenerator;
 import net.minecraft.world.World;
 import net.minecraft.world.chunk.IChunkProvider;

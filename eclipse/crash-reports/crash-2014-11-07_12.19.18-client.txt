@@ -43,7 +43,7 @@ Stacktrace:
 
 -- Screen render details --
 Details:
-	Screen name: com.PatrikWWDC.nanotech.gui.GUIGenerator
+	Screen name: com.PatrikWWDC.electricitynetwork.gui.GUIGenerator
 	Mouse location: Scaled: (177, 77). Absolute: (355, 325)
 	Screen size: Scaled: (427, 240). Absolute: (854, 480). Scale factor of 2
 

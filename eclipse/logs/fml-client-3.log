@@ -817,31 +817,31 @@
 [13:09:46] [Client thread/DEBUG] [FML/]: Examining directory main for potential mods
 [13:09:47] [Client thread/DEBUG] [FML/]: Found an mcmod.info file in directory main
 [13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.lang
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.models
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.blocks
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.entity
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.gui
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.nanotech.textures.items
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.lang
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.models
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.blocks
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.entity
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.gui
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package assets.electricitynetwork.textures.items
 [13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com
 [13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech
-[13:09:47] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.PatrikWWDC.nanotech.NanoTech) - loading
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork
+[13:09:47] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.PatrikWWDC.electricitynetwork.NanoTech) - loading
 [13:09:47] [Client thread/TRACE] [nanotech/]: Parsed dependency info : [] [] []
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.block
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.creativeTab
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.entity
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.gui
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.handler
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.init
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.item
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.proxy
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.reference
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.tile_entity
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.utility
-[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.nanotech.world
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.block
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.creativeTab
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.entity
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.gui
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.handler
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.init
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.item
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.proxy
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.reference
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.tile_entity
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.utility
+[13:09:47] [Client thread/TRACE] [FML/]: Recursing into package com.PatrikWWDC.electricitynetwork.world
 [13:09:47] [Client thread/DEBUG] [FML/]: Examining directory start for potential mods
 [13:09:47] [Client thread/DEBUG] [FML/]: No mcmod.info file found in directory start
 [13:09:47] [Client thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.10-10.13.2.1232.jar for potential mods
@@ -1078,39 +1078,39 @@
 [13:09:51] [Client thread/INFO] [FML/Forge]: Configured a dormant chunk cache size of 0
 [13:09:51] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPreInitializationEvent to mod Forge
 [13:09:51] [Client thread/TRACE] [nanotech/nanotech]: Sending event FMLPreInitializationEvent to mod nanotech
-[13:09:51] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Nano Core 4096 com.PatrikWWDC.nanotech.item.ItemNanoPlate@27d19684 (req. id -1)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.nanotech.item.ItemNanoGrenade@30f0c888 (req. id -1)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ingot 4098 com.PatrikWWDC.nanotech.item.ItemCopperIngot@ffd71d2 (req. id -1)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby 4099 com.PatrikWWDC.nanotech.item.ItemRuby@483b9a31 (req. id -1)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Silicon Ore 165 com.PatrikWWDC.nanotech.block.BlockSiliconOre@41082c03 (req. id -1)
-[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockSiliconOre@41082c03 for ItemBlock net.minecraft.item.ItemBlock@7f819a4f at id 165, original id requested: -1
+[13:09:51] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Nano Core 4096 com.PatrikWWDC.electricitynetwork.item.ItemNanoPlate@27d19684 (req. id -1)
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.electricitynetwork.item.ItemNanoGrenade@30f0c888 (req. id -1)
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ingot 4098 com.PatrikWWDC.electricitynetwork.item.ItemCopperIngot@ffd71d2 (req. id -1)
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby 4099 com.PatrikWWDC.electricitynetwork.item.ItemRuby@483b9a31 (req. id -1)
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Silicon Ore 165 com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@41082c03 (req. id -1)
+[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@41082c03 for ItemBlock net.minecraft.item.ItemBlock@7f819a4f at id 165, original id requested: -1
 [13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Silicon Ore 165 net.minecraft.item.ItemBlock@7f819a4f (req. id 165)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby Ore 166 com.PatrikWWDC.nanotech.block.BlockRubyOre@15b9f9ef (req. id -1)
-[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockRubyOre@15b9f9ef for ItemBlock net.minecraft.item.ItemBlock@64c7c50d at id 166, original id requested: -1
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby Ore 166 com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@15b9f9ef (req. id -1)
+[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@15b9f9ef for ItemBlock net.minecraft.item.ItemBlock@64c7c50d at id 166, original id requested: -1
 [13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Ruby Ore 166 net.minecraft.item.ItemBlock@64c7c50d (req. id 166)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Amethyst Ore 167 com.PatrikWWDC.nanotech.block.BlockAmethystOre@775a0c2b (req. id -1)
-[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockAmethystOre@775a0c2b for ItemBlock net.minecraft.item.ItemBlock@38d51844 at id 167, original id requested: -1
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Amethyst Ore 167 com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@775a0c2b (req. id -1)
+[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@775a0c2b for ItemBlock net.minecraft.item.ItemBlock@38d51844 at id 167, original id requested: -1
 [13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Amethyst Ore 167 net.minecraft.item.ItemBlock@38d51844 (req. id 167)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ore 168 com.PatrikWWDC.nanotech.block.BlockCopperOre@2e2c3582 (req. id -1)
-[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockCopperOre@2e2c3582 for ItemBlock net.minecraft.item.ItemBlock@586d017c at id 168, original id requested: -1
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ore 168 com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@2e2c3582 (req. id -1)
+[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@2e2c3582 for ItemBlock net.minecraft.item.ItemBlock@586d017c at id 168, original id requested: -1
 [13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Copper Ore 168 net.minecraft.item.ItemBlock@586d017c (req. id 168)
-[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@5c7ca13e (req. id -1)
-[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@5c7ca13e for ItemBlock net.minecraft.item.ItemBlock@7a3e1ce1 at id 169, original id requested: -1
+[13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@5c7ca13e (req. id -1)
+[13:09:51] [Client thread/DEBUG] [FML/nanotech]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@5c7ca13e for ItemBlock net.minecraft.item.ItemBlock@7a3e1ce1 at id 169, original id requested: -1
 [13:09:51] [Client thread/TRACE] [FML/nanotech]: Registry add: nanotech:Solar Panel Tier I 169 net.minecraft.item.ItemBlock@7a3e1ce1 (req. id 169)
-[13:09:51] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.nanotech.init.ModGUI:init:13]: Registering GUI Handlers!
-[13:09:51] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.nanotech.init.ModGUI:init:15]: GUI Handlers Registered!
+[13:09:51] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.electricitynetwork.init.ModGUI:init:13]: Registering GUI Handlers!
+[13:09:51] [Client thread/INFO] [STDOUT/nanotech]: [com.PatrikWWDC.electricitynetwork.init.ModGUI:init:15]: GUI Handlers Registered!
 [13:09:51] [Client thread/TRACE] [nanotech/nanotech]: Sent event FMLPreInitializationEvent to mod nanotech
 [13:09:51] [Client thread/INFO] [FML/]: Applying holder lookups
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.siliconOre. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.rubyOre. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.amethystOre. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.copperOre. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.nanotech.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoPlate. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoGrenade. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.copperIngot. Is there something wrong with the registry?
-[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.ruby. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.siliconOre. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.rubyOre. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.amethystOre. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.copperOre. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.electricitynetwork.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoPlate. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoGrenade. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.copperIngot. Is there something wrong with the registry?
+[13:09:51] [Client thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.ruby. Is there something wrong with the registry?
 [13:09:51] [Client thread/INFO] [FML/]: Holder lookups applied
 [13:09:51] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
 [13:09:51] [Sound Library Loader/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
@@ -1359,11 +1359,11 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:log2 162 net.minecraft.block.BlockNewLog@4ed64cba
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:acacia_stairs 163 net.minecraft.block.BlockStairs@57476fc5
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:dark_oak_stairs 164 net.minecraft.block.BlockStairs@12fb1b47
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Silicon Ore 165 com.PatrikWWDC.nanotech.block.BlockSiliconOre@41082c03
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby Ore 166 com.PatrikWWDC.nanotech.block.BlockRubyOre@15b9f9ef
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Amethyst Ore 167 com.PatrikWWDC.nanotech.block.BlockAmethystOre@775a0c2b
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ore 168 com.PatrikWWDC.nanotech.block.BlockCopperOre@2e2c3582
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@5c7ca13e
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Silicon Ore 165 com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@41082c03
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby Ore 166 com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@15b9f9ef
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Amethyst Ore 167 com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@775a0c2b
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ore 168 com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@2e2c3582
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@5c7ca13e
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:hay_block 170 net.minecraft.block.BlockHay@47fe2d
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:carpet 171 net.minecraft.block.BlockCarpet@44fd5fe5
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:hardened_clay 172 net.minecraft.block.BlockHardenedClay@1b1ce9a
@@ -1690,10 +1690,10 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:record_ward 2265 net.minecraft.item.ItemRecord@d7dd0a0
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:record_11 2266 net.minecraft.item.ItemRecord@3f0bbf4b
 [13:10:15] [Server thread/TRACE] [FML/]: Registry: minecraft:record_wait 2267 net.minecraft.item.ItemRecord@1c3bf543
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Nano Core 4096 com.PatrikWWDC.nanotech.item.ItemNanoPlate@27d19684
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.nanotech.item.ItemNanoGrenade@30f0c888
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ingot 4098 com.PatrikWWDC.nanotech.item.ItemCopperIngot@ffd71d2
-[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby 4099 com.PatrikWWDC.nanotech.item.ItemRuby@483b9a31
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Nano Core 4096 com.PatrikWWDC.electricitynetwork.item.ItemNanoPlate@27d19684
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.electricitynetwork.item.ItemNanoGrenade@30f0c888
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ingot 4098 com.PatrikWWDC.electricitynetwork.item.ItemCopperIngot@ffd71d2
+[13:10:15] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby 4099 com.PatrikWWDC.electricitynetwork.item.ItemRuby@483b9a31
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:wooden_pressure_plate 72 net.minecraft.block.BlockPressurePlate@3efe45d3 (req. id 72)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:enchanting_table 116 net.minecraft.block.BlockEnchantmentTable@3ba5fb12 (req. id 116)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:emerald_ore 129 net.minecraft.block.BlockOre@547638c0 (req. id 129)
@@ -1706,7 +1706,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:dragon_egg 122 net.minecraft.block.BlockDragonEgg@1a78d426 (req. id 122)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:waterlily 111 net.minecraft.block.BlockLilyPad@3c16c928 (req. id 111)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:netherrack 87 net.minecraft.block.BlockNetherrack@1d13cd14 (req. id 87)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Amethyst Ore 167 com.PatrikWWDC.nanotech.block.BlockAmethystOre@775a0c2b (req. id 167)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Amethyst Ore 167 com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@775a0c2b (req. id 167)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:trapped_chest 146 net.minecraft.block.BlockChest@4d12e6ef (req. id 146)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:lit_furnace 62 net.minecraft.block.BlockFurnace@5cb2dd2c (req. id 62)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:command_block 137 net.minecraft.block.BlockCommandBlock@15bf218e (req. id 137)
@@ -1733,7 +1733,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:clay 82 net.minecraft.block.BlockClay@6a521361 (req. id 82)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:melon_block 103 net.minecraft.block.BlockMelon@19a92bd0 (req. id 103)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:ender_chest 130 net.minecraft.block.BlockEnderChest@6a710411 (req. id 130)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@5c7ca13e (req. id 169)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@5c7ca13e (req. id 169)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:iron_bars 101 net.minecraft.block.BlockPane@745a5d16 (req. id 101)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:pumpkin_stem 104 net.minecraft.block.BlockStem@22354203 (req. id 104)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:melon_stem 105 net.minecraft.block.BlockStem@5680e480 (req. id 105)
@@ -1774,7 +1774,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:snow 80 net.minecraft.block.BlockSnowBlock@51ebdc1d (req. id 80)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:obsidian 49 net.minecraft.block.BlockObsidian@51038e5 (req. id 49)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:golden_rail 27 net.minecraft.block.BlockRailPowered@1dc325b7 (req. id 27)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Silicon Ore 165 com.PatrikWWDC.nanotech.block.BlockSiliconOre@41082c03 (req. id 165)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Silicon Ore 165 com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@41082c03 (req. id 165)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:redstone_ore 73 net.minecraft.block.BlockRedstoneOre@3ff93f03 (req. id 73)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:stained_glass 95 net.minecraft.block.BlockStainedGlass@63334d7f (req. id 95)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:mossy_cobblestone 48 net.minecraft.block.Block@6673dc15 (req. id 48)
@@ -1795,7 +1795,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:vine 106 net.minecraft.block.BlockVine@2579ac74 (req. id 106)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:fence 85 net.minecraft.block.BlockFence@3a6b22fa (req. id 85)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:brick_block 45 net.minecraft.block.Block@6dc74dfb (req. id 45)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Copper Ore 168 com.PatrikWWDC.nanotech.block.BlockCopperOre@2e2c3582 (req. id 168)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Copper Ore 168 com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@2e2c3582 (req. id 168)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:brown_mushroom 39 net.minecraft.block.BlockMushroom@16daee9 (req. id 39)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:gold_block 41 net.minecraft.block.BlockCompressed@78d88d3e (req. id 41)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:ladder 65 net.minecraft.block.BlockLadder@347eb067 (req. id 65)
@@ -1867,7 +1867,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:furnace 61 net.minecraft.block.BlockFurnace@4c436559 (req. id 61)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:soul_sand 88 net.minecraft.block.BlockSoulSand@7f3851b5 (req. id 88)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:crafting_table 58 net.minecraft.block.BlockWorkbench@73c663fc (req. id 58)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Ruby Ore 166 com.PatrikWWDC.nanotech.block.BlockRubyOre@15b9f9ef (req. id 166)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Ruby Ore 166 com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@15b9f9ef (req. id 166)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:redstone_wire 55 net.minecraft.block.BlockRedstoneWire@441f4175 (req. id 55)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:stone_pressure_plate 70 net.minecraft.block.BlockPressurePlate@7b33cec2 (req. id 70)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:gold_ore 14 net.minecraft.block.BlockOre@5c1a555 (req. id 14)
@@ -1960,7 +1960,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:iron_axe 258 net.minecraft.item.ItemAxe@1ce89199 (req. id 258)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:bucket 325 net.minecraft.item.ItemBucket@6efff5a1 (req. id 325)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:iron_shovel 256 net.minecraft.item.ItemSpade@1538c1e3 (req. id 256)
-[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.nanotech.block.BlockAmethystOre@775a0c2b for ItemBlock net.minecraft.item.ItemBlock@38d51844 at id 167, original id requested: 167
+[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@775a0c2b for ItemBlock net.minecraft.item.ItemBlock@38d51844 at id 167, original id requested: 167
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Amethyst Ore 167 net.minecraft.item.ItemBlock@38d51844 (req. id 167)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:firework_charge 402 net.minecraft.item.ItemFireworkCharge@6bc5a139 (req. id 402)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockFurnace@5cb2dd2c for ItemBlock net.minecraft.item.ItemBlock@4f6333f9 at id 62, original id requested: 62
@@ -2036,7 +2036,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:stone_sword 272 net.minecraft.item.ItemSword@173f1afb (req. id 272)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:minecart 328 net.minecraft.item.ItemMinecart@43f79045 (req. id 328)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:leather_helmet 298 net.minecraft.item.ItemArmor@3b48a380 (req. id 298)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.nanotech.item.ItemNanoGrenade@30f0c888 (req. id 4097)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.electricitynetwork.item.ItemNanoGrenade@30f0c888 (req. id 4097)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockRailPowered@7e09e56a for ItemBlock net.minecraft.item.ItemBlock@4838bd9d at id 157, original id requested: 157
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:activator_rail 157 net.minecraft.item.ItemBlock@4838bd9d (req. id 157)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockIce@1549a849 for ItemBlock net.minecraft.item.ItemBlock@7cece9af at id 79, original id requested: 79
@@ -2057,18 +2057,18 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:chainmail_boots 305 net.minecraft.item.ItemArmor@444eea9 (req. id 305)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:diamond_horse_armor 419 net.minecraft.item.Item@7553c244 (req. id 419)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:gold_nugget 371 net.minecraft.item.Item@4c0df5f8 (req. id 371)
-[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.nanotech.block.BlockSiliconOre@41082c03 for ItemBlock net.minecraft.item.ItemBlock@7f819a4f at id 165, original id requested: 165
+[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@41082c03 for ItemBlock net.minecraft.item.ItemBlock@7f819a4f at id 165, original id requested: 165
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Silicon Ore 165 net.minecraft.item.ItemBlock@7f819a4f (req. id 165)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:fishing_rod 346 net.minecraft.item.ItemFishingRod@430828fa (req. id 346)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockSponge@510276a4 for ItemBlock net.minecraft.item.ItemBlock@55770b96 at id 19, original id requested: 19
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:sponge 19 net.minecraft.item.ItemBlock@55770b96 (req. id 19)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:bread 297 net.minecraft.item.ItemFood@3a19e897 (req. id 297)
-[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.nanotech.block.BlockRubyOre@15b9f9ef for ItemBlock net.minecraft.item.ItemBlock@64c7c50d at id 166, original id requested: 166
+[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@15b9f9ef for ItemBlock net.minecraft.item.ItemBlock@64c7c50d at id 166, original id requested: 166
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Ruby Ore 166 net.minecraft.item.ItemBlock@64c7c50d (req. id 166)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:paper 339 net.minecraft.item.Item@56006ed7 (req. id 339)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.Block@4072e154 for ItemBlock net.minecraft.item.ItemBlock@1f4fc5e5 at id 173, original id requested: 173
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:coal_block 173 net.minecraft.item.ItemBlock@1f4fc5e5 (req. id 173)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Copper Ingot 4098 com.PatrikWWDC.nanotech.item.ItemCopperIngot@ffd71d2 (req. id 4098)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Copper Ingot 4098 com.PatrikWWDC.electricitynetwork.item.ItemCopperIngot@ffd71d2 (req. id 4098)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:record_far 2260 net.minecraft.item.ItemRecord@323a4542 (req. id 2260)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:item_frame 389 net.minecraft.item.ItemHangingEntity@759b6377 (req. id 389)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:snowball 332 net.minecraft.item.ItemSnowball@77409d64 (req. id 332)
@@ -2085,7 +2085,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:wooden_pickaxe 270 net.minecraft.item.ItemPickaxe@3e24f5ad (req. id 270)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:painting 321 net.minecraft.item.ItemHangingEntity@5c8ea66a (req. id 321)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:saddle 329 net.minecraft.item.ItemSaddle@131dfe52 (req. id 329)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Nano Core 4096 com.PatrikWWDC.nanotech.item.ItemNanoPlate@27d19684 (req. id 4096)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Nano Core 4096 com.PatrikWWDC.electricitynetwork.item.ItemNanoPlate@27d19684 (req. id 4096)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockJukebox@5f243f31 for ItemBlock net.minecraft.item.ItemBlock@78a8dc3c at id 84, original id requested: 84
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:jukebox 84 net.minecraft.item.ItemBlock@78a8dc3c (req. id 84)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockStone@1bfdf1d7 for ItemBlock net.minecraft.item.ItemBlock@4f5237c8 at id 1, original id requested: 1
@@ -2111,7 +2111,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:clock 347 net.minecraft.item.Item@4cba5777 (req. id 347)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockDeadBush@2c061379 for ItemBlock net.minecraft.item.ItemBlock@3f44bc95 at id 32, original id requested: 32
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:deadbush 32 net.minecraft.item.ItemBlock@3f44bc95 (req. id 32)
-[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@5c7ca13e for ItemBlock net.minecraft.item.ItemBlock@7a3e1ce1 at id 169, original id requested: 169
+[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@5c7ca13e for ItemBlock net.minecraft.item.ItemBlock@7a3e1ce1 at id 169, original id requested: 169
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Solar Panel Tier I 169 net.minecraft.item.ItemBlock@7a3e1ce1 (req. id 169)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:command_block_minecart 422 net.minecraft.item.ItemMinecart@122a365e (req. id 422)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:experience_bottle 384 net.minecraft.item.ItemExpBottle@256c949f (req. id 384)
@@ -2125,7 +2125,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:iron_leggings 308 net.minecraft.item.ItemArmor@6cd0ac90 (req. id 308)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockRailDetector@3097168a for ItemBlock net.minecraft.item.ItemBlock@4c73cedb at id 28, original id requested: 28
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:detector_rail 28 net.minecraft.item.ItemBlock@4c73cedb (req. id 28)
-[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Ruby 4099 com.PatrikWWDC.nanotech.item.ItemRuby@483b9a31 (req. id 4099)
+[13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Ruby 4099 com.PatrikWWDC.electricitynetwork.item.ItemRuby@483b9a31 (req. id 4099)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:pumpkin_pie 400 net.minecraft.item.ItemFood@5d431617 (req. id 400)
 [13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block net.minecraft.block.BlockCompressed@47050cf3 for ItemBlock net.minecraft.item.ItemBlock@42c19c51 at id 57, original id requested: 57
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:diamond_block 57 net.minecraft.item.ItemBlock@42c19c51 (req. id 57)
@@ -2207,7 +2207,7 @@
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:sugar 353 net.minecraft.item.Item@6be328de (req. id 353)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:wheat_seeds 295 net.minecraft.item.ItemSeeds@55b8deec (req. id 295)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:shears 359 net.minecraft.item.ItemShears@53033670 (req. id 359)
-[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.nanotech.block.BlockCopperOre@2e2c3582 for ItemBlock net.minecraft.item.ItemBlock@586d017c at id 168, original id requested: 168
+[13:10:15] [Server thread/DEBUG] [FML/]: Found matching Block com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@2e2c3582 for ItemBlock net.minecraft.item.ItemBlock@586d017c at id 168, original id requested: 168
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: nanotech:Copper Ore 168 net.minecraft.item.ItemBlock@586d017c (req. id 168)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:fermented_spider_eye 376 net.minecraft.item.Item@29505d69 (req. id 376)
 [13:10:15] [Server thread/TRACE] [FML/]: Registry add: minecraft:ghast_tear 370 net.minecraft.item.Item@28183058 (req. id 370)
@@ -2525,11 +2525,11 @@
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:log2 162 net.minecraft.block.BlockNewLog@4ed64cba
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:acacia_stairs 163 net.minecraft.block.BlockStairs@57476fc5
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:dark_oak_stairs 164 net.minecraft.block.BlockStairs@12fb1b47
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Silicon Ore 165 com.PatrikWWDC.nanotech.block.BlockSiliconOre@41082c03
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby Ore 166 com.PatrikWWDC.nanotech.block.BlockRubyOre@15b9f9ef
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Amethyst Ore 167 com.PatrikWWDC.nanotech.block.BlockAmethystOre@775a0c2b
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ore 168 com.PatrikWWDC.nanotech.block.BlockCopperOre@2e2c3582
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI@5c7ca13e
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Silicon Ore 165 com.PatrikWWDC.electricitynetwork.block.BlockSiliconOre@41082c03
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby Ore 166 com.PatrikWWDC.electricitynetwork.block.BlockRubyOre@15b9f9ef
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Amethyst Ore 167 com.PatrikWWDC.electricitynetwork.block.BlockAmethystOre@775a0c2b
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ore 168 com.PatrikWWDC.electricitynetwork.block.BlockCopperOre@2e2c3582
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Solar Panel Tier I 169 com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI@5c7ca13e
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:hay_block 170 net.minecraft.block.BlockHay@47fe2d
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:carpet 171 net.minecraft.block.BlockCarpet@44fd5fe5
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:hardened_clay 172 net.minecraft.block.BlockHardenedClay@1b1ce9a
@@ -2856,21 +2856,21 @@
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:record_ward 2265 net.minecraft.item.ItemRecord@d7dd0a0
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:record_11 2266 net.minecraft.item.ItemRecord@3f0bbf4b
 [13:10:21] [Server thread/TRACE] [FML/]: Registry: minecraft:record_wait 2267 net.minecraft.item.ItemRecord@1c3bf543
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Nano Core 4096 com.PatrikWWDC.nanotech.item.ItemNanoPlate@27d19684
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.nanotech.item.ItemNanoGrenade@30f0c888
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ingot 4098 com.PatrikWWDC.nanotech.item.ItemCopperIngot@ffd71d2
-[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby 4099 com.PatrikWWDC.nanotech.item.ItemRuby@483b9a31
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Nano Core 4096 com.PatrikWWDC.electricitynetwork.item.ItemNanoPlate@27d19684
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Invisible Nano Grenade 4097 com.PatrikWWDC.electricitynetwork.item.ItemNanoGrenade@30f0c888
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Copper Ingot 4098 com.PatrikWWDC.electricitynetwork.item.ItemCopperIngot@ffd71d2
+[13:10:21] [Server thread/TRACE] [FML/]: Registry: nanotech:Ruby 4099 com.PatrikWWDC.electricitynetwork.item.ItemRuby@483b9a31
 [13:10:21] [Server thread/TRACE] [FML/]: Skipping remap event - no remaps occured
 [13:10:21] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.siliconOre. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.rubyOre. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.amethystOre. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.copperOre. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.nanotech.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoPlate. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoGrenade. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.copperIngot. Is there something wrong with the registry?
-[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.ruby. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.siliconOre. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.rubyOre. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.amethystOre. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.copperOre. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.electricitynetwork.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoPlate. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoGrenade. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.copperIngot. Is there something wrong with the registry?
+[13:10:21] [Server thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.ruby. Is there something wrong with the registry?
 [13:10:21] [Server thread/INFO] [FML/]: Holder lookups applied
 [13:10:21] [Server thread/INFO] [FML/]: Loading dimension 0 (NanoTech Testing Facility) (net.minecraft.server.integrated.IntegratedServer@b151529)
 [13:10:21] [Server thread/INFO] [FML/]: Loading dimension 1 (NanoTech Testing Facility) (net.minecraft.server.integrated.IntegratedServer@b151529)
@@ -2907,135 +2907,135 @@
 [13:10:22] [Netty IO #1/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [13:10:22] [Client thread/INFO] [FML/]: [Client thread] Client side modded connection established
 [13:10:22] [Server thread/INFO] [FML/]: [Server thread] Server side modded connection established
-[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:06] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
 [13:11:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 14
-[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 6
-[13:11:07] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:07] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:07] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:07] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:10] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:10] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:10] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:10] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
-[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
-[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 14
+[13:11:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 6
+[13:11:07] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:07] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:07] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:07] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:09] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:09] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:10] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:10] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:10] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:10] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:11] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
+[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:createNewTileEntity:91]: Creating entity for BlocKSolarPanelTierI
+[13:11:11] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:<init>:21]: Initializing TileEntitySolarPanelTierI
 [13:11:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:11:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
 [13:12:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:12:36] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
 [13:13:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:13:21] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
 [13:14:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
-[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
-[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
-[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:49] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
-[13:14:49] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
-[13:14:49] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@266cc33c
-[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
-[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
-[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
-[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:50] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
-[13:14:50] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
-[13:14:50] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@266cc33c
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
-[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
-[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@266cc33c
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
-[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
-[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@266cc33c
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:06] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
+[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
+[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
+[13:14:49] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:49] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
+[13:14:49] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
+[13:14:49] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@266cc33c
+[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
+[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
+[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
+[13:14:50] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:50] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
+[13:14:50] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
+[13:14:50] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@266cc33c
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
+[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
+[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@266cc33c
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
+[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
+[13:14:51] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@266cc33c
 [13:14:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
-[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
-[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
-[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@482342a
-[13:14:52] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
-[13:14:52] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
-[13:14:52] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI@266cc33c
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:51] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.block.BlockSolarPanelTierI:onBlockActivated:81]: Opening GUI...
+[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:20]: Server GUI Element.
+[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:21]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getServerGuiElement:26]: Opening Generator GUI
+[13:14:52] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@482342a
+[13:14:52] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:41]: Client GUI Element.
+[13:14:52] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.handler.GUIHandler:getClientGuiElement:46]: Opening Generator GUI
+[13:14:52] [Client thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.gui.ContainerGenerator:<init>:16]: com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI@266cc33c
 [13:15:17] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
 [13:15:17] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
 [13:15:17] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppingEvent to mod mcp
@@ -3047,29 +3047,29 @@
 [13:15:17] [Server thread/TRACE] [nanotech/nanotech]: Sending event FMLServerStoppingEvent to mod nanotech
 [13:15:17] [Server thread/TRACE] [nanotech/nanotech]: Sent event FMLServerStoppingEvent to mod nanotech
 [13:15:17] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save NanoTech Testing Facility
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
-[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.nanotech.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
+[13:15:17] [Server thread/INFO] [STDOUT/]: [com.PatrikWWDC.electricitynetwork.tile_entity.TileEntitySolarPanelTierI:writeToNBT:60]: Saved Power: 100
 [13:15:17] [Server thread/INFO] [FML/]: Unloading dimension 0
 [13:15:17] [Server thread/INFO] [FML/]: Unloading dimension -1
 [13:15:17] [Server thread/INFO] [FML/]: Unloading dimension 1
 [13:15:17] [Server thread/DEBUG] [FML/]: Reverting to frozen data state.
 [13:15:17] [Server thread/INFO] [FML/]: Applying holder lookups
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.siliconOre. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.rubyOre. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.amethystOre. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.nanotech.block.BlockNT com.PatrikWWDC.nanotech.init.ModBlocks.copperOre. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.nanotech.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoPlate. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.nanoGrenade. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.copperIngot. Is there something wrong with the registry?
-[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.nanotech.item.ItemNT com.PatrikWWDC.nanotech.init.ModItems.ruby. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:siliconOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.siliconOre. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:rubyOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.rubyOre. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:amethystOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.amethystOre. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperOre for public static com.PatrikWWDC.electricitynetwork.block.BlockNT com.PatrikWWDC.electricitynetwork.init.ModBlocks.copperOre. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:solarPanelTierI for public static net.minecraft.block.Block com.PatrikWWDC.electricitynetwork.init.ModBlocks.solarPanelTierI. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoPlate for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoPlate. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:nanoGrenade for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.nanoGrenade. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:copperIngot for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.copperIngot. Is there something wrong with the registry?
+[13:15:17] [Server thread/WARN] [FML/]: Unable to lookup nanotech:ruby for public static com.PatrikWWDC.electricitynetwork.item.ItemNT com.PatrikWWDC.electricitynetwork.init.ModItems.ruby. Is there something wrong with the registry?
 [13:15:17] [Server thread/INFO] [FML/]: Holder lookups applied
 [13:15:17] [Server thread/TRACE] [mcp/mcp]: Sending event FMLServerStoppedEvent to mod mcp
 [13:15:17] [Server thread/TRACE] [mcp/mcp]: Sent event FMLServerStoppedEvent to mod mcp

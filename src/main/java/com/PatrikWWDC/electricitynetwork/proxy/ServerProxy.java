@@ -1,4 +1,4 @@
-package com.PatrikWWDC.nanotech.proxy;
+package com.PatrikWWDC.electricitynetwork.proxy;
 
 public class ServerProxy extends CommonProxy {
 

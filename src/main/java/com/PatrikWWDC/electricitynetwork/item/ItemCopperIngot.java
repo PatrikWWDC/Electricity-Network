@@ -1,4 +1,4 @@
-package com.PatrikWWDC.nanotech.item;
+package com.PatrikWWDC.electricitynetwork.item;
 
 public class ItemCopperIngot extends ItemEN {
 

@@ -1,4 +1,4 @@
-package com.PatrikWWDC.nanotech.init;
+package com.PatrikWWDC.electricitynetwork.init;
 
 import net.minecraft.world.biome.BiomeGenBase;
 

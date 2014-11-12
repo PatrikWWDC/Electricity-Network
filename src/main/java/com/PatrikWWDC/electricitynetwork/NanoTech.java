@@ -1,10 +1,10 @@
-package com.PatrikWWDC.nanotech;
+package com.PatrikWWDC.electricitynetwork;
 
-import com.PatrikWWDC.nanotech.handler.ConfigurationHandler;
-import com.PatrikWWDC.nanotech.init.*;
-import com.PatrikWWDC.nanotech.proxy.CommonProxy;
-import com.PatrikWWDC.nanotech.reference.Reference;
-import com.PatrikWWDC.nanotech.world.BlockGenerator;
+import com.PatrikWWDC.electricitynetwork.handler.ConfigurationHandler;
+import com.PatrikWWDC.electricitynetwork.init.*;
+import com.PatrikWWDC.electricitynetwork.proxy.CommonProxy;
+import com.PatrikWWDC.electricitynetwork.reference.Reference;
+import com.PatrikWWDC.electricitynetwork.world.BlockGenerator;
 import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
@@ -12,8 +12,6 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
-import net.minecraft.stats.Achievement;
-import net.minecraftforge.common.AchievementPage;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
 public class NanoTech {

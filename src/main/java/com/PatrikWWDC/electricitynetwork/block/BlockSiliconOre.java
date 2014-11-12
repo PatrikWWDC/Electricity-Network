@@ -1,4 +1,4 @@
-package com.PatrikWWDC.nanotech.block;
+package com.PatrikWWDC.electricitynetwork.block;
 
 public class BlockSiliconOre extends BlockEN {
 

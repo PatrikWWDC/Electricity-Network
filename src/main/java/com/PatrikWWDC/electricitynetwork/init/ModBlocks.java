@@ -1,7 +1,7 @@
-package com.PatrikWWDC.nanotech.init;
+package com.PatrikWWDC.electricitynetwork.init;
 
-import com.PatrikWWDC.nanotech.block.*;
-import com.PatrikWWDC.nanotech.reference.Reference;
+import com.PatrikWWDC.electricitynetwork.block.*;
+import com.PatrikWWDC.electricitynetwork.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)

@@ -4,7 +4,7 @@
 Time: 11/2/14 4:53 PM
 Description: There was a severe problem during mod loading that has caused the game to fail
 
-cpw.mods.fml.common.LoaderException: java.lang.ClassNotFoundException: com.PatrikWWDC.nanotech.proxy.ClientProxy
+cpw.mods.fml.common.LoaderException: java.lang.ClassNotFoundException: com.PatrikWWDC.electricitynetwork.proxy.ClientProxy
 	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:76)
 	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:492)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -51,7 +51,7 @@ cpw.mods.fml.common.LoaderException: java.lang.ClassNotFoundException: com.Patri
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
 	at java.lang.reflect.Method.invoke(Method.java:606)
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
-Caused by: java.lang.ClassNotFoundException: com.PatrikWWDC.nanotech.proxy.ClientProxy
+Caused by: java.lang.ClassNotFoundException: com.PatrikWWDC.electricitynetwork.proxy.ClientProxy
 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
